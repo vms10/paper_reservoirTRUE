@@ -1,0 +1,8 @@
+graph = nt.prune_graph(graph, verbose=1) 
+
+'DiGraph' object has no attribute 'nodes_with_selfloops'
+'DiGraph' object has no attribute 'in_degree_iter'
+'DiGraph' object has no attribute 'out_degree_iter'
+
+def reservoir_performance
+local variable 'nrmse' referenced before assignment
