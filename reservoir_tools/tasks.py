@@ -6,7 +6,8 @@ import warnings
 import numpy as np
 
 import sys
-sys.path.append('/home/sol/Escritorio/paper_reservoir/reservoir_tools/')
+#sys.path.append('/home/sol/Escritorio/paper_reservoir/reservoir_tools/')
+sys.path.append('C:/Users/Maria/Desktop/phd/paper_reservoirTRUE/reservoir_tools/')
 
 from readouts import RidgeRegression
 from utils import bisection
